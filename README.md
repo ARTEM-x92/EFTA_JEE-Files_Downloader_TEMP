@@ -5,10 +5,6 @@ Jeffrey Edward Epstein Proof Documents Downloader From Justice.Gov Servers
 
 Epstein Files Transparency Act (H.R.4405)
 
-We Ask That You Archive These Files. 
-
-This Is IMPORTANT INFORMATION And MUST BE ARCHIVED, THEY WILL MOST LIKELY DELETE THESE FILES.
-
 Script Will Automatically Download All Files. From Justice.Gov Public Servers
 
 
